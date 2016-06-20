@@ -1,4 +1,6 @@
 module.exports = {
     //Generic config
-    offline: true
+    offline: true,
+    featurePath: "./features",
+    reportPath: "./reports"
 };
